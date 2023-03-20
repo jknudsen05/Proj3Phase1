@@ -1,5 +1,7 @@
 READ ME for Project3 Phase 1
 
+Link For Videos: https://drive.google.com/drive/folders/133_b1Q2k_wsJVmb3v4zMU5bJZeEKDtQK?usp=share_link
+
 Team:
 Jens R Knudsen III -- UID 119482834
 Pritom Raymond Leo Gomes -- UID 118428321
